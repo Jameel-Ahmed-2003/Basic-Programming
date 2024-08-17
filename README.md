@@ -117,3 +117,10 @@ similarly we have to do upto n rows</br>
     * output2: a2b2
     * input2: aabbbceegg
     * output2: a2b3c1e2g2
+25. 26.cpp
+    * Cpp program
+    * input1: notebookpaper
+    * output1:</br>
+      n-o-tebookpap-e-r</br>
+      not-e-bookp-a-per</br>
+      noteb-o--o-kpaper
