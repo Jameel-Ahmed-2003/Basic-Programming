@@ -138,3 +138,5 @@ similarly we have to do upto n rows</br>
     * Removing duplicates
     * sort the array
     * using unique
+32. 31.cpp
+    * Check if operator is found in a string or not using any_of
