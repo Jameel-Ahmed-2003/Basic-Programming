@@ -134,3 +134,7 @@ similarly we have to do upto n rows</br>
     * Leetcode problem
     * Minimum stack
     * [Youtube link]{https://youtu.be/NdDIaH91P0g?si=ozr2_bAJRrYf_2jr}
+31. 30.cpp
+    * Removing duplicates
+    * sort the array
+    * using unique
