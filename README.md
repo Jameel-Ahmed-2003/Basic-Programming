@@ -128,7 +128,9 @@ similarly we have to do upto n rows</br>
       noteb-o--o-kpaper
 28. 27.cpp
     * [Youtube link]{https://youtu.be/fSwaS3WFGAQ?si=M39JOzUWZbNuIHXF}
-29. 29.cpp
+29. 28.cpp
+    * Cpp program to check if number is perfect square or not
+30. 29.cpp
     * Leetcode problem
     * Minimum stack
     * [Youtube link]{https://youtu.be/NdDIaH91P0g?si=ozr2_bAJRrYf_2jr}
