@@ -140,3 +140,5 @@ similarly we have to do upto n rows</br>
     * using unique
 32. 31.cpp
     * Check if operator is found in a string or not using any_of
+33. 32.cpp
+    * Split strings and store in a new array using strdup, strcspn, strtok
