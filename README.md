@@ -43,5 +43,77 @@ In other words, the numeral looks the same right-side up and upside down (e.g., 
    * To multiply a given number by 4 using bitwise
 9. 9.c
     * To divide a given number by 4 using bitwise
-10 10.c
+10. 10.c
       * C program to print first n numbers that has only n factors
+11. 12.c
+    * C program to find the correct operator between two operands
+    * input 1: 5-4=20
+    * outpu1 : *
+    * input 2:50+2=25
+    * output2:/
+12. 13.c
+    * C program to accept n number of strings
+    * input1:
+Enter the number of strings : 5</br>
+Enter 5 strings</br>
+jameel ahmed</br>
+shams tabrez husain</br>
+mohamed shoaib</br>
+mohamed anees</br>
+    * Output1:</br>
+      jameel ahmed</br>
+shams tabrez husain</br>
+mohamed shoaib</br>
+mohamed anees</br>
+13. 14.c
+    * c program to count the number of digits using %n
+14. 15.c
+    * c program to count the number of digits
+15. 16.c
+    * Factorial using loop
+16. 17.c
+    * print fibonacci series within the range
+    * input1: 1 12
+    * outpu1: 2 3 5 8
+    * input2: 0 22
+    * output2:1 2 3 5 8 13 21
+17. 18.c
+    * C program to print the nearest fibonacci number
+18. 19.c
+    * Check a number is palindrome or not
+19. 20.c
+    * Swap 2 numbers using + -
+    * Swap 2 numbers using * /
+    * Swap 2 numbers using temp
+20. 21.cpp
+    * CPP program to print a spiral matrix
+    * input1: 4
+    * 1 2 3 4</br>
+12 13 14 5</br>
+11 16 15 6</br>
+10 9 8 7</br>
+21. 22.cpp
+    * Zoho look and say pattern C++ program
+    * input: 5
+    * output:
+      1</br>
+11</br>
+21</br>
+1211</br>
+111221</br>
+    * Explanation:
+      1
+11 ->the first row has 1 1 so 11 is printed in row2</br>
+21 ->the second row has 2 1's so 21 is printed</br>
+1211->the 3rd row has 1 2 at first and 1 1 so 1211 is printed</br>
+similarly we have to do upto n rows</br>
+22. 23.cpp
+    * CPP program to print n fibonacci terms
+23. 24.cpp
+    * CPP program to print factorial using recursion
+24. 25.c
+    * C program
+    * input1 : aabb
+    * output2: a2b2
+    * input2: aabbbceegg
+    * output2: a2b3c1e2g2
