@@ -44,14 +44,16 @@ In other words, the numeral looks the same right-side up and upside down (e.g., 
 9. 9.c
     * To divide a given number by 4 using bitwise
 10. 10.c
-      * C program to print first n numbers that has only n factors
-11. 12.c
+    * C program to print first n numbers that has only n factors
+12. 11.cpp
+    * CPP program to accept n numbers and print the sum of absolute difference
+13. 12.c
     * C program to find the correct operator between two operands
     * input 1: 5-4=20
     * outpu1 : *
     * input 2:50+2=25
     * output2:/
-12. 13.c
+14. 13.c
     * C program to accept n number of strings
     * input1:
 Enter the number of strings : 5</br>
@@ -65,34 +67,34 @@ mohamed anees</br>
 shams tabrez husain</br>
 mohamed shoaib</br>
 mohamed anees</br>
-13. 14.c
+15. 14.c
     * c program to count the number of digits using %n
-14. 15.c
+16. 15.c
     * c program to count the number of digits
-15. 16.c
+17. 16.c
     * Factorial using loop
-16. 17.c
+18. 17.c
     * print fibonacci series within the range
     * input1: 1 12
     * outpu1: 2 3 5 8
     * input2: 0 22
     * output2:1 2 3 5 8 13 21
-17. 18.c
+19. 18.c
     * C program to print the nearest fibonacci number
-18. 19.c
+20. 19.c
     * Check a number is palindrome or not
-19. 20.c
+21. 20.c
     * Swap 2 numbers using + -
     * Swap 2 numbers using * /
     * Swap 2 numbers using temp
-20. 21.cpp
+22. 21.cpp
     * CPP program to print a spiral matrix
     * input1: 4
     * 1 2 3 4</br>
 12 13 14 5</br>
 11 16 15 6</br>
 10 9 8 7</br>
-21. 22.cpp
+23. 22.cpp
     * Zoho look and say pattern C++ program
     * input: 5
     * output:
@@ -107,22 +109,22 @@ mohamed anees</br>
 21 ->the second row has 2 1's so 21 is printed</br>
 1211->the 3rd row has 1 2 at first and 1 1 so 1211 is printed</br>
 similarly we have to do upto n rows</br>
-22. 23.cpp
+24. 23.cpp
     * CPP program to print n fibonacci terms
-23. 24.cpp
+25. 24.cpp
     * CPP program to print factorial using recursion
-24. 25.c
+26. 25.c
     * C program
     * input1 : aabb
     * output2: a2b2
     * input2: aabbbceegg
     * output2: a2b3c1e2g2
-25. 26.cpp
+27. 26.cpp
     * Cpp program
     * input1: notebookpaper
     * output1:</br>
       n-o-tebookpap-e-r</br>
       not-e-bookp-a-per</br>
       noteb-o--o-kpaper
-26. 27.cpp
+28. 27.cpp
     * [Youtube link]{https://youtu.be/fSwaS3WFGAQ?si=M39JOzUWZbNuIHXF}
