@@ -124,3 +124,5 @@ similarly we have to do upto n rows</br>
       n-o-tebookpap-e-r</br>
       not-e-bookp-a-per</br>
       noteb-o--o-kpaper
+26. 27.cpp
+    * [Youtube link]{https://youtu.be/fSwaS3WFGAQ?si=M39JOzUWZbNuIHXF}
