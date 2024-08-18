@@ -163,5 +163,19 @@ similarly we have to do upto n rows</br>
     * Leetcode problem level hard
 38. nextGreaterElement.cpp
     * Finding next greater element
+    * Leetcode problem
     * next greater element problem
     * stack operation
+39. expressionEvaluation.cpp
+    * Given a string
+    * Evaluate the string expression
+    * Input 1: 12+24-30
+    * output1: 6
+    * input2: 50+(12-4)/8*6-5
+    * output2: 51
+    * precedence check
+    * stack operation
+    * Asked in zoho 2025 batch round2
+40. BalancedParanthesis.cpp
+    * Stack operation
+    * Leetcode problem
