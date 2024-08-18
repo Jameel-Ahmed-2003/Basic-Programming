@@ -142,3 +142,26 @@ similarly we have to do upto n rows</br>
     * Check if operator is found in a string or not using any_of
 33. 32.cpp
     * Split strings and store in a new array using strdup, strcspn, strtok
+34. 33.cpp
+    * to remove a digit from a given integer
+35. infixToPrefixandPostFix.cpp
+    * CPP program to convert a given infix expression to prefix and postfix
+    * stack operation
+    * string operation
+    * precedence check
+36. WaterTrapProblem.cpp
+    * Leetcode problem level hard
+    * Water Trap problem
+    * Brute force approach
+    * How much amount of water can be stored in between building or bricks
+    * finding leftmaximum and rightmaximum for each element(building) and store in vector
+    * finding minimum of leftmaximum and rightmaximum and added to sum
+    * returning sum
+37. WaterTrapProblem2.cpp
+    * Better Solution
+    * Water trap problem
+    * Leetcode problem level hard
+38. nextGreaterElement.cpp
+    * Finding next greater element
+    * next greater element problem
+    * stack operation
