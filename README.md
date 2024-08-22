@@ -184,4 +184,6 @@ similarly we have to do upto n rows</br>
     * Map operation
     * Convert romansymbols to integers
 42. plusOne.cpp
-    ## headng2
+    - plus one
+    - Leet code problem
+    - Vector operation
