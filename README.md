@@ -187,3 +187,21 @@ similarly we have to do upto n rows</br>
     - plus one
     - Leet code problem
     - Vector operation
+43. subsequence.cpp
+    - generate subsequence using the string
+    - base problem for longest common substring
+44. LongestCommonPrefix.cpp
+    - vector and string operations
+    - Leetcode problem
+    - returning the longest common prefix
+45.  LongestCommonSubsequence.cpp
+    - dynamic programming
+    - vector of vectors
+    - dynamic programming
+    - vector and string operation
+    - returning the longest common subsequence
+    - Leetcode problem
+46. ZigzagConversion.cpp
+    - vector of vector
+    - string operation
+    - Leetcode problem
