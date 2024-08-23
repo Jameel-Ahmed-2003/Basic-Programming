@@ -184,24 +184,24 @@ similarly we have to do upto n rows</br>
     * Map operation
     * Convert romansymbols to integers
 42. plusOne.cpp
-    - plus one
-    - Leet code problem
-    - Vector operation
+    * plus one
+    * Leet code problem
+    * Vector operation
 43. subsequence.cpp
-    - generate subsequence using the string
-    - base problem for longest common substring
+    * generate subsequence using the string
+    * base problem for longest common substring
 44. LongestCommonPrefix.cpp
-    - vector and string operations
-    - Leetcode problem
-    - returning the longest common prefix
+    * vector and string operations
+    * Leetcode problem
+    * returning the longest common prefix
 45.  LongestCommonSubsequence.cpp
-    - dynamic programming
-    - vector of vectors
-    - dynamic programming
-    - vector and string operation
-    - returning the longest common subsequence
-    - Leetcode problem
+    * dynamic programming
+    * vector of vectors
+    * dynamic programming
+    * vector and string operation
+    * returning the longest common subsequence
+    * Leetcode problem
 46. ZigzagConversion.cpp
-    - vector of vector
-    - string operation
-    - Leetcode problem
+    * vector of vector
+    * string operation
+    * Leetcode problem
