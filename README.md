@@ -1,3 +1,6 @@
+# This Repository is under development.
+## Make sure you double check each every program
+
 1. 1.c
     - C program to convert a string to integer or extract integers from a string
     - input 1: kdfj123 dfj908 093
