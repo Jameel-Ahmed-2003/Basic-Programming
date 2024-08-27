@@ -210,3 +210,11 @@
     - Convert postfix expression to infix expression
     - Convert prefix expression to infix expression
     - usage of stack and string operations
+48. longestCommonSubstring.cpp
+    - Leetcode problem
+49. maximumSubArraySum.cpp
+    - Leetcode problem
+50. minimumSubArraySum.cpp
+    - Leetcode problem
+51. lemonade.cpp
+    - Leetcode problem.cpp
