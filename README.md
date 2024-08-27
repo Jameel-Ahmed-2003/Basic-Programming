@@ -222,3 +222,8 @@
     - nth fibonacci term using recursion
 54. fiborecur.cpp
     - fibonacci sequence using recursion
+55. happyNumber.cpp
+    - Check if a number is happy number
+    - Leetcode problem
+56. stringencode.cpp
+    - Encode and decode a given string using 1's and 0's
