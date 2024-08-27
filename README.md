@@ -1,4 +1,5 @@
 # This Repository is under development.
+
 ## Make sure you double check each every program
 
 1. 1.c
@@ -146,12 +147,14 @@
     - Split strings and store in a new array using strdup, strcspn, strtok
 33. 33.cpp
     - to remove a digit from a given integer
-34. infixToPrefixandPostFix.cpp
+34. 34.cpp
+    - Accenture coding question
+35. infixToPrefixandPostFix.cpp
     - CPP program to convert a given infix expression to prefix and postfix
     - stack operation
     - string operation
     - precedence check
-35. WaterTrapProblem.cpp
+36. WaterTrapProblem.cpp
     - Leetcode problem level hard
     - Water Trap problem
     - Brute force approach
@@ -159,16 +162,16 @@
     - finding leftmaximum and rightmaximum for each element(building) and store in vector
     - finding minimum of leftmaximum and rightmaximum and added to sum
     - returning sum
-36. WaterTrapProblem2.cpp
+37. WaterTrapProblem2.cpp
     - Better Solution
     - Water trap problem
     - Leetcode problem level hard
-37. nextGreaterElement.cpp
+38. nextGreaterElement.cpp
     - Finding next greater element
     - Leetcode problem
     - next greater element problem
     - stack operation
-38. expressionEvaluation.cpp
+39. expressionEvaluation.cpp
     - Given a string
     - Evaluate the string expression
     - Input 1: 12+24-30
@@ -178,50 +181,50 @@
     - precedence check
     - stack operation
     - Asked in zoho 2025 batch round2
-39. BalancedParanthesis.cpp
+40. BalancedParanthesis.cpp
     - Stack operation
     - Leetcode problem
-40. romantoIntegers.cpp
+41. romantoIntegers.cpp
     - Leetcode problem
     - Map operation
     - Convert romansymbols to integers
-41. plusOne.cpp
+42. plusOne.cpp
     - plus one
     - Leet code problem
     - Vector operation
-42. subsequence.cpp
+43. subsequence.cpp
     - generate subsequence using the string
     - base problem for longest common substring
-43. LongestCommonPrefix.cpp
+44. LongestCommonPrefix.cpp
     - vector and string operations
     - Leetcode problem
     - returning the longest common prefix
-44. LongestCommonSubsequence.cpp
+45. LongestCommonSubsequence.cpp
     - Dynamic Programming
     - vector of vectors
     - vector and string operation
     - returning the longest common subsequence
     - leetcode problem
-45. ZigzagConversion.cpp
+46. ZigzagConversion.cpp
     - vector of vector
     - string operation
     - Leetcode problem
-46. rotateArray.cpp
+47. rotateArray.cpp
     - vector or array operation
     - leetcode problem
-47. postfixPrefixInfix.cpp
+48. postfixPrefixInfix.cpp
     - Convert postfix expression to infix expression
     - Convert prefix expression to infix expression
     - usage of stack and string operations
-48. longestCommonSubstring.cpp
+49. longestCommonSubstring.cpp
     - Leetcode problem
-49. maximumSubArraySum.cpp
+50. maximumSubArraySum.cpp
     - Leetcode problem
-50. minimumSubArraySum.cpp
+51. minimumSubArraySum.cpp
     - Leetcode problem
-51. lemonade.cpp
+52. lemonade.cpp
     - Leetcode problem.cpp
-52. nthFiborecur.cpp
+53. nthFiborecur.cpp
     - nth fibonacci term using recursion
 54. fiborecur.cpp
     - fibonacci sequence using recursion
