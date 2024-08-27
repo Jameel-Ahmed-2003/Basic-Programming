@@ -206,3 +206,7 @@
 46. rotateArray.cpp
     - vector or array operation
     - leetcode problem
+47. postfixPrefixInfix.cpp
+    - Convert postfix expression to infix expression
+    - Convert prefix expression to infix expression
+    - usage of stack and string operations
