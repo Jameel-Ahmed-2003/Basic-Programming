@@ -218,3 +218,7 @@
     - Leetcode problem
 51. lemonade.cpp
     - Leetcode problem.cpp
+52. nthFiborecur.cpp
+    - nth fibonacci term using recursion
+54. fiborecur.cpp
+    - fibonacci sequence using recursion
