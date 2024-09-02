@@ -235,3 +235,8 @@
     - Encode and decode a given string using 1's and 0's
 57. reboundHeight.cpp
     - Accenture coding question
+58. LinearSinglyLinkedList.c
+59. LinearDoublyLinkedList.c
+60. CircularSinglyLinkedList.c
+61. graph_basics.cpp
+62. sorting_algorithms.cpp
