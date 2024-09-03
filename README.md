@@ -1,7 +1,6 @@
 # This Repository is under development.
 
 ## Make sure you double check each every program
-<p style="color:red;background💛">hi</p>
 
 1. 1.c
     - C program to convert a string to integer or extract integers from a string
@@ -241,3 +240,20 @@
 60. CircularSinglyLinkedList.c
 61. graph_basics.cpp
 62. sorting_algorithms.cpp
+63. Graph.cpp
+    - Create adjacency matrix and adjacency list using tree in the main function
+64. graph_basics.cpp
+    - Create Adjacency Matrix
+    - Create Adjacency List
+    - Create Node pairs
+    - Print Adjacency Matrix
+    - Print Adjacency List
+    - Print Nodepairs
+    - BFS and DFS traversal
+    - The above all are subroutines
+65. graph_oops.cpp
+    - Create a class graph
+    - Create a constructor
+    - addEdges
+    - printAdjacencyList
+    - bfs
