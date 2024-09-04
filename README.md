@@ -261,3 +261,5 @@
     - juspay round1 2025batch
 67. max_weight_node.cpp
     - juspay round1 2025batch
+68. stackOperation.c
+    - Performs stack operation in c language using struct and malloc
